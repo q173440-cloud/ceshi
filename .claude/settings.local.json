@@ -10,7 +10,8 @@
       "Bash(powershell.exe -Command \"Get-Command gh | Select-Object -ExpandProperty Source\")",
       "Read(//c/Program Files/GitHub CLI//**)",
       "Read(//c/Program Files \\(x86\\)/**)",
-      "Bash(export PATH=\"$PATH:/c/Program Files/GitHub CLI\")"
+      "Bash(export PATH=\"$PATH:/c/Program Files/GitHub CLI\")",
+      "Bash(gh repo:*)"
     ]
   }
 }
