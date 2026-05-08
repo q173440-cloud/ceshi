@@ -46,7 +46,12 @@
       "Bash(git init *)",
       "Bash(git add *)",
       "Bash(git commit -m ' *)",
-      "Bash(git commit *)"
+      "Bash(git commit *)",
+      "Bash(git push *)",
+      "Bash(iconv -f gb2312 -t utf-8)",
+      "mcp__opencli__web_read",
+      "Bash(py --version)",
+      "Bash(py *)"
     ]
   },
   "enableAllProjectMcpServers": true,
