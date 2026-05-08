@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "opencli": {
+      "command": "node",
+      "args": ["C:/Users/wtqweeqopt/bin/opencli-mcp-wrapper.js"]
+    }
+  }
+}
