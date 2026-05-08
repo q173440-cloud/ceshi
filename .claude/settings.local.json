@@ -51,7 +51,13 @@
       "Bash(iconv -f gb2312 -t utf-8)",
       "mcp__opencli__web_read",
       "Bash(py --version)",
-      "Bash(py *)"
+      "Bash(py *)",
+      "Bash(git config *)",
+      "Bash(gh auth *)",
+      "Bash(gh repo *)",
+      "Bash(git remote *)",
+      "Bash(git pull *)",
+      "Bash(git fetch *)"
     ]
   },
   "enableAllProjectMcpServers": true,
